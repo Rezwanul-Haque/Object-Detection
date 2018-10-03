@@ -9,3 +9,6 @@ Using OpenCV with python, trying to apply different algorithms like canny algori
 
 ## Motion Detection based on a reference image.
 ![motion detection](https://user-images.githubusercontent.com/22642254/46428878-e6f1d480-c766-11e8-9462-53124d08bdeb.png)
+
+## Single Color Object Detection
+![Color Object Detection](https://user-images.githubusercontent.com/22642254/46428982-28827f80-c767-11e8-8af8-18d46d3b1bec.png)
