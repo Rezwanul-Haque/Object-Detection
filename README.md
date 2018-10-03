@@ -3,3 +3,6 @@ Using OpenCV with python, trying to apply different algorithms like canny algori
 
 ## Canny's Algorithm
 ![canny s algorithm](https://user-images.githubusercontent.com/22642254/46428602-3aafee00-c766-11e8-8a19-0eeeba62c0ed.png)
+
+## Face Detection
+![face dectection](https://user-images.githubusercontent.com/22642254/46428733-8e223c00-c766-11e8-8ec9-a21245c32ec8.png)
