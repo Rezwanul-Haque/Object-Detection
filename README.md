@@ -6,3 +6,6 @@ Using OpenCV with python, trying to apply different algorithms like canny algori
 
 ## Face Detection
 ![face dectection](https://user-images.githubusercontent.com/22642254/46428733-8e223c00-c766-11e8-8ec9-a21245c32ec8.png)
+
+## Motion Detection based on a reference image.
+![motion detection](https://user-images.githubusercontent.com/22642254/46428878-e6f1d480-c766-11e8-9462-53124d08bdeb.png)
